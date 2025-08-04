@@ -1,0 +1,17 @@
+{
+  "name": "caching",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "redis": "^5.7.0",
+    "sqlite3": "^5.1.7"
+  }
+}
